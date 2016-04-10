@@ -2,6 +2,12 @@
 
 ##### Steps
 
+###### Prepare
+vagrant plugin install vagrant-berkshelf
+vagrant plugin install vagrant-hosts
+vagrant plugin install vagrant-vbguest
+vagrant plugin install vagrant-omnibus
+
 ###### 1.
 
 ```
